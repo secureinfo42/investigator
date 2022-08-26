@@ -6,6 +6,10 @@ A simple interface to investigate on domains.
 
 ## Use
 
+1. First, create your api keys for services listed in `services.json`
+
+2. Run the following commands
+
 ```bash
 $ git clone [url]
 $ python -m venv env # or virutalenv env
