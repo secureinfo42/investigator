@@ -1,0 +1,1283 @@
+{
+  "target": {
+    "url": "https://github.com/",
+    "host": "github.com",
+    "ip": "140.82.113.4",
+    "port": 443
+  },
+  "infos": {
+    "whois": [],
+    "rev-dns": [
+      "lb-140-82-113-4-iad.github.com",
+      "140.82.113.4"
+    ],
+    "geo-ip": "United States",
+    "icmp": {
+      "icmp": {
+        "ttl": 58,
+        "guessed-os": "Linux",
+        "distance": "6"
+      }
+    },
+    "threats": [
+      {
+        "rules.emergingthreats.net": "False"
+      },
+      {
+        "cybercrime-tracker.net": "False"
+      },
+      {
+        "easylist.to": "True"
+      },
+      {
+        "github:vaseem-khan-URLcheck": "True"
+      },
+      {
+        "github:marcobrandobh_IOCs": "False"
+      },
+      {
+        "zonefiles.io:domains": "False"
+      },
+      {
+        "zonefiles.io:ips": "False"
+      },
+      {
+        "urlhaus.abuse.ch": "True"
+      }
+    ]
+  },
+  "ssl": {
+    "tls": {
+      "is_expired": false,
+      "not-before": "2022/03/15@00:00",
+      "not-after": "2023/03/15@23:59",
+      "subject": "/C=US/ST=California/L=San Francisco/O=GitHub, Inc./CN=github.com",
+      "altnames": [
+        "github.com",
+        "www.github.com"
+      ]
+    }
+  },
+  "html": {
+    "tags": {
+      "#Total": 0
+    },
+    "href": [],
+    "src": []
+  },
+  "shodan": {
+    "ip": [],
+    "raw": []
+  },
+  "ip-info": {
+    "ip": "140.82.113.4",
+    "hostname": "lb-140-82-113-4-iad.github.com",
+    "city": "Washington",
+    "region": "Washington, D.C.",
+    "country": "US",
+    "loc": "38.8951,-77.0364",
+    "org": "AS36459 GitHub, Inc.",
+    "postal": "20004",
+    "timezone": "America/New_York"
+  },
+  "apivoid": {
+    "email": {
+      "data": {
+        "email": "contact@github.com",
+        "valid_format": true,
+        "username": "contact",
+        "role_address": true,
+        "suspicious_username": false,
+        "dirty_words_username": false,
+        "suspicious_email": false,
+        "domain": "github.com",
+        "valid_tld": true,
+        "disposable": false,
+        "has_a_records": true,
+        "has_mx_records": true,
+        "has_spf_records": true,
+        "is_spoofable": false,
+        "dmarc_configured": true,
+        "dmarc_enforced": true,
+        "free_email": false,
+        "russian_free_email": false,
+        "china_free_email": false,
+        "did_you_mean": "",
+        "suspicious_domain": false,
+        "dirty_words_domain": false,
+        "domain_popular": true,
+        "risky_tld": false,
+        "police_domain": false,
+        "government_domain": false,
+        "educational_domain": false,
+        "should_block": false,
+        "score": 100
+      },
+      "credits_remained": 13.18,
+      "estimated_queries": "219",
+      "elapsed_time": "1.53",
+      "success": true
+    },
+    "urlrep": {
+      "data": {
+        "report": {
+          "dns_records": {
+            "ns": {
+              "records": [
+                {
+                  "target": "ns-1283.awsdns-32.org",
+                  "ip": "205.251.197.3",
+                  "country_code": "JP",
+                  "country_name": "Japan",
+                  "isp": "Amazon Data Services NoVa"
+                },
+                {
+                  "target": "ns-1707.awsdns-21.co.uk",
+                  "ip": "205.251.198.171",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Amazon Data Services NoVa"
+                },
+                {
+                  "target": "ns-421.awsdns-52.com",
+                  "ip": "205.251.193.165",
+                  "country_code": "HK",
+                  "country_name": "Hong Kong",
+                  "isp": "Amazon Data Services NoVa"
+                },
+                {
+                  "target": "ns-520.awsdns-01.net",
+                  "ip": "205.251.194.8",
+                  "country_code": "HK",
+                  "country_name": "Hong Kong",
+                  "isp": "Amazon Data Services NoVa"
+                },
+                {
+                  "target": "dns1.p08.nsone.net",
+                  "ip": "198.51.44.8",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "NSONE Inc"
+                },
+                {
+                  "target": "dns2.p08.nsone.net",
+                  "ip": "198.51.45.8",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "NSONE Inc"
+                },
+                {
+                  "target": "dns3.p08.nsone.net",
+                  "ip": "198.51.44.72",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "NSONE Inc"
+                }
+              ]
+            },
+            "mx": {
+              "records": [
+                {
+                  "target": "alt1.aspmx.l.google.com",
+                  "ip": "64.233.186.27",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Google LLC"
+                },
+                {
+                  "target": "alt2.aspmx.l.google.com",
+                  "ip": "209.85.202.27",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Google LLC"
+                },
+                {
+                  "target": "aspmx.l.google.com",
+                  "ip": "172.253.123.26",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Google LLC"
+                },
+                {
+                  "target": "alt3.aspmx.l.google.com",
+                  "ip": "64.233.184.26",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Google LLC"
+                },
+                {
+                  "target": "alt4.aspmx.l.google.com",
+                  "ip": "142.250.27.27",
+                  "country_code": "US",
+                  "country_name": "United States of America",
+                  "isp": "Google LLC"
+                }
+              ]
+            }
+          },
+          "domain_blacklist": {
+            "engines": [
+              {
+                "name": "ThreatLog",
+                "reference": "https://www.threatlog.com/",
+                "detected": false
+              },
+              {
+                "name": "OpenPhish",
+                "reference": "https://openphish.com/",
+                "detected": false
+              },
+              {
+                "name": "PhishTank",
+                "reference": "https://www.phishtank.com/",
+                "detected": false
+              },
+              {
+                "name": "Phishing.Database",
+                "reference": "https://github.com/mitchellkrogza/Phishing.Database",
+                "detected": false
+              },
+              {
+                "name": "PhishStats",
+                "reference": "https://phishstats.info/",
+                "detected": false
+              },
+              {
+                "name": "URLVir",
+                "reference": "https://www.urlvir.com/",
+                "detected": false
+              },
+              {
+                "name": "URLhaus",
+                "reference": "https://urlhaus.abuse.ch/",
+                "detected": false
+              },
+              {
+                "name": "RPiList Not Serious",
+                "reference": "https://github.com/RPiList/specials",
+                "detected": false
+              },
+              {
+                "name": "AntiSocial Blacklist",
+                "reference": "https://theantisocialengineer.com/",
+                "detected": false
+              },
+              {
+                "name": "PhishFeed",
+                "reference": "https://phishfeed.com/",
+                "detected": false
+              },
+              {
+                "name": "NABP Not Recommended Sites",
+                "reference": "https://safe.pharmacy/buy-safely/",
+                "detected": false
+              },
+              {
+                "name": "Spam404",
+                "reference": "https://www.spam404.com/",
+                "detected": false
+              },
+              {
+                "name": "CRDF",
+                "reference": "https://threatcenter.crdf.fr/check.html",
+                "detected": false
+              },
+              {
+                "name": "Artists Against 419",
+                "reference": "http://wiki.aa419.org/index.php/Main_Page",
+                "detected": false
+              },
+              {
+                "name": "CERT Polska",
+                "reference": "https://www.cert.pl/",
+                "detected": false
+              },
+              {
+                "name": "Scam.Directory",
+                "reference": "https://scam.directory/",
+                "detected": false
+              },
+              {
+                "name": "PetScams",
+                "reference": "https://petscams.com/",
+                "detected": false
+              },
+              {
+                "name": "Suspicious Hosting IP",
+                "reference": "https://www.novirusthanks.org/",
+                "detected": false
+              },
+              {
+                "name": "Phishunt",
+                "reference": "https://phishunt.io/",
+                "detected": false
+              },
+              {
+                "name": "TR-PhishingList",
+                "reference": "https://github.com/HorusTeknoloji/TR-PhishingList",
+                "detected": false
+              },
+              {
+                "name": "CoinBlockerLists",
+                "reference": "https://gitlab.com/ZeroDot1/CoinBlockerLists/",
+                "detected": false
+              },
+              {
+                "name": "MetaMask EthPhishing",
+                "reference": "https://github.com/MetaMask/eth-phishing-detect/",
+                "detected": false
+              },
+              {
+                "name": "EtherScamDB",
+                "reference": "https://etherscamdb.info/",
+                "detected": false
+              },
+              {
+                "name": "EtherAddressLookup",
+                "reference": "https://github.com/409H/EtherAddressLookup/",
+                "detected": false
+              },
+              {
+                "name": "ViriBack C2 Tracker",
+                "reference": "http://tracker.viriback.com/",
+                "detected": false
+              },
+              {
+                "name": "Bambenek Consulting",
+                "reference": "http://www.bambenekconsulting.com/",
+                "detected": false
+              },
+              {
+                "name": "Badbitcoin",
+                "reference": "https://badbitcoin.org/",
+                "detected": false
+              },
+              {
+                "name": "SecureReload Phishing List",
+                "reference": "https://securereload.tech/",
+                "detected": false
+              },
+              {
+                "name": "PhishingReel",
+                "reference": "https://phishingreel.io/",
+                "detected": false
+              },
+              {
+                "name": "Fake Website Buster",
+                "reference": "https://fakewebsitebuster.com/",
+                "detected": false
+              },
+              {
+                "name": "TweetFeed",
+                "reference": "https://github.com/0xDanielLopez/TweetFeed",
+                "detected": false
+              }
+            ],
+            "detections": 0
+          },
+          "file_type": {
+            "signature": "HTML",
+            "extension": "",
+            "headers": "HTML"
+          },
+          "geo_location": {
+            "countries": [
+              "JP",
+              "US",
+              "HK"
+            ]
+          },
+          "html_forms": {
+            "number_of_total_forms": 2,
+            "number_of_total_input_fields": 6,
+            "two_text_inputs_in_a_form": false,
+            "credit_card_field_present": false,
+            "password_field_present": false,
+            "email_field_present": true
+          },
+          "redirection": {
+            "found": false,
+            "external": false,
+            "url": null
+          },
+          "response_headers": {
+            "code": 200,
+            "status": "HTTP/2 200",
+            "server": "GitHub.com",
+            "date": "Fri, 26 Aug 2022 07:38:36 GMT",
+            "content-type": "text/html; charset=utf-8",
+            "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Language, Accept-Encoding, Accept, X-Requested-With",
+            "permissions-policy": "interest-cohort=()",
+            "content-language": "en-US",
+            "etag": "W/\"70e146da4f7f16bfc958d047cea4342f\"",
+            "cache-control": "max-age=0, private, must-revalidate",
+            "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+            "x-frame-options": "deny",
+            "x-content-type-options": "nosniff",
+            "x-xss-protection": "0",
+            "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+            "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+            "content-security-policy": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com github.githubassets.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src render.githubusercontent.com viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/",
+            "content-encoding": "gzip",
+            "set-cookie": "_gh_sess=4qMYKcR%2BmWSzPGpeK1ad3YM5BUlbReyJRf8ZaY6dP3ZoKyk5dnq40dHmxGntH9jh6JtAUPGMYyfq2dePNYBXOQciVEftZMMuYxaLvemSFfHgE1yWWCXIeJQTcjVse7%2FTbXmJjNCS%2BqdzDNhfq%2FcHq9XYaeft6RKPpWNu5WRFizHoccN8tARTavsOwSKBR2bp6ors6l6gdpRGc6%2FTUpMTk7o40btpLEJnmZbbLID3OnNE2BBL0pc8abNa%2FT54IjaQrQydNmy7jNecK0QuBzkMrw%3D%3D--py1HgZi5b%2BuVhKeN--PnuOYCi3mnNXbXNXUNCL0g%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax _octo=GH1.1.712846116.1661499524; Path=/; Domain=github.com; Expires=Sat, 26 Aug 2023 07:38:44 GMT; Secure; SameSite=Lax logged_in=no; Path=/; Domain=github.com; Expires=Sat, 26 Aug 2023 07:38:44 GMT; HttpOnly; Secure; SameSite=Lax",
+            "accept-ranges": "bytes",
+            "x-github-request-id": "FAEA:97D5:1B436:132D60:63087884"
+          },
+          "risk_score": {
+            "result": 0
+          },
+          "security_checks": {
+            "is_host_an_ipv4": false,
+            "is_uncommon_host_length": false,
+            "is_uncommon_dash_char_count": false,
+            "is_uncommon_dot_char_count": false,
+            "is_suspicious_url_pattern": false,
+            "is_suspicious_file_extension": false,
+            "is_robots_noindex": false,
+            "is_suspended_page": false,
+            "is_most_abused_tld": false,
+            "is_uncommon_clickable_url": false,
+            "is_phishing_heuristic": false,
+            "is_possible_emotet": false,
+            "is_redirect_to_search_engine": false,
+            "is_http_status_error": false,
+            "is_http_server_error": false,
+            "is_http_client_error": false,
+            "is_suspicious_content": false,
+            "is_url_accessible": true,
+            "is_empty_page_title": false,
+            "is_empty_page_content": false,
+            "is_domain_ipv4_assigned": true,
+            "is_domain_ipv4_private": false,
+            "is_domain_ipv4_loopback": false,
+            "is_domain_ipv4_reserved": false,
+            "is_domain_ipv4_valid": true,
+            "is_domain_blacklisted": false,
+            "is_suspicious_domain": false,
+            "is_sinkholed_domain": false,
+            "is_defaced_heuristic": false,
+            "is_masked_file": false,
+            "is_risky_geo_location": false,
+            "is_china_country": false,
+            "is_nigeria_country": false,
+            "is_non_standard_port": false,
+            "is_email_address_on_url_query": false,
+            "is_directory_listing": false,
+            "is_exe_on_directory_listing": false,
+            "is_zip_on_directory_listing": false,
+            "is_php_on_directory_listing": false,
+            "is_doc_on_directory_listing": false,
+            "is_pdf_on_directory_listing": false,
+            "is_apk_on_directory_listing": false,
+            "is_linux_elf_file": false,
+            "is_linux_elf_file_on_free_dynamic_dns": false,
+            "is_linux_elf_file_on_free_hosting": false,
+            "is_linux_elf_file_on_ipv4": false,
+            "is_masked_linux_elf_file": false,
+            "is_masked_windows_exe_file": false,
+            "is_ms_office_file": false,
+            "is_windows_exe_file_on_free_dynamic_dns": false,
+            "is_windows_exe_file_on_free_hosting": false,
+            "is_windows_exe_file_on_ipv4": false,
+            "is_windows_exe_file": false,
+            "is_android_apk_file_on_free_dynamic_dns": false,
+            "is_android_apk_file_on_free_hosting": false,
+            "is_android_apk_file_on_ipv4": false,
+            "is_android_apk_file": false,
+            "is_external_redirect": false,
+            "is_risky_category": false,
+            "is_domain_recent": "no",
+            "is_domain_very_recent": "no",
+            "is_credit_card_field": false,
+            "is_password_field": false,
+            "is_valid_https": true
+          },
+          "server_details": {
+            "ip": "140.82.114.4",
+            "hostname": "lb-140-82-114-4-iad.github.com",
+            "continent_code": "NA",
+            "continent_name": "North America",
+            "country_code": "US",
+            "country_name": "United States of America",
+            "region_name": "California",
+            "city_name": "San Francisco",
+            "latitude": 37.775699615478516,
+            "longitude": -122.39520263671875,
+            "isp": "GitHub Inc.",
+            "asn": "AS36459"
+          },
+          "site_category": {
+            "is_torrent": false,
+            "is_vpn_provider": false,
+            "is_free_hosting": false,
+            "is_anonymizer": false,
+            "is_url_shortener": false,
+            "is_free_dynamic_dns": false,
+            "is_code_sandbox": false,
+            "is_form_builder": false,
+            "is_free_file_sharing": false,
+            "is_pastebin": false
+          },
+          "url_parts": {
+            "scheme": "https",
+            "host": "github.com",
+            "host_nowww": "github.com",
+            "port": null,
+            "path": "/",
+            "query": null
+          },
+          "web_page": {
+            "title": "GitHub: Where the world builds software \u00b7 GitHub",
+            "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
+            "keywords": ""
+          }
+        }
+      },
+      "credits_remained": 12.68,
+      "estimated_queries": "25",
+      "elapsed_time": "1.99",
+      "success": true
+    }
+  },
+  "security-trails": {
+    "history-whois": {
+      "endpoint": "/v1/history/github.com/whois",
+      "result": {
+        "count": 13,
+        "items": [
+          {
+            "contact": [
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "administrativeContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "technicalContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1601692252000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1576678212000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1557705600000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1558797643000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1558797643000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1557705600000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1557798169000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1557798169000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1557705600000
+          },
+          {
+            "contact": [
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "administrativeContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "technicalContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1556394509000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1556394509000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1538006400000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1556084893000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1556084893000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1538006400000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "Us (united States)",
+                "email": "hostmaster@github.com",
+                "name": "GitHub, Inc.",
+                "postalCode": "94107",
+                "street1": "548 4th Street",
+                "telephone": "1 4157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1540211179000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1537984737000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1498435200000
+          },
+          {
+            "contact": [
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "administrativeContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "technicalContact"
+              },
+              {
+                "country": "United States",
+                "name": "GitHub, Inc.",
+                "organization": "GitHub, Inc.",
+                "state": "CA",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1527612345000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net",
+              "ns-1283.awsdns-32.org",
+              "ns-1707.awsdns-21.co.uk",
+              "ns-421.awsdns-52.com"
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1527612345000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1498435200000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1512131429000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "ns-520.awsdns-01.net.",
+              "ns-1283.awsdns-32.org.",
+              "ns-1707.awsdns-21.co.uk.",
+              "ns-421.awsdns-52.com."
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1484586600000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1477008000000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "United States",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "+1.4157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191888000000,
+            "domain": "github.com",
+            "ended": 1483106869000,
+            "expiresDate": 1602201600000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              ""
+            ],
+            "private_registration": false,
+            "registrarName": "MarkMonitor Inc.",
+            "started": 1483106869000,
+            "status": [
+              "clientUpdateProhibited",
+              "clientDeleteProhibited",
+              "clientTransferProhibited"
+            ],
+            "updatedDate": 1477008000000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14157354488",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191930528000,
+            "domain": "github.com",
+            "ended": 1480570828000,
+            "expiresDate": 1602244128000,
+            "full_domain": "github.com",
+            "gtld": false,
+            "nameServers": [
+              "NS1.P16.DYNECT.NET",
+              "NS2.P16.DYNECT.NET",
+              "NS3.P16.DYNECT.NET",
+              "NS4.P16.DYNECT.NET"
+            ],
+            "private_registration": false,
+            "registrarName": "MARKMONITOR INC.",
+            "started": 1409565503000,
+            "status": [
+              "clientDeleteProhibited",
+              "clientTransferProhibited",
+              "clientUpdateProhibited"
+            ],
+            "updatedDate": 1371210528000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14158575430",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14158575430",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "88 Colin P Kelly Jr St,",
+                "telephone": "14158575430",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191935538000,
+            "domain": "github.com",
+            "ended": 1398986973000,
+            "expiresDate": 1602249138000,
+            "full_domain": "github.com",
+            "gtld": false,
+            "nameServers": [
+              "NS1.P16.DYNECT.NET",
+              "NS2.P16.DYNECT.NET",
+              "NS3.P16.DYNECT.NET",
+              "NS4.P16.DYNECT.NET"
+            ],
+            "private_registration": false,
+            "registrarName": "MARKMONITOR INC.",
+            "started": 1391256566000,
+            "status": [
+              "clientDeleteProhibited",
+              "clientTransferProhibited",
+              "clientUpdateProhibited"
+            ],
+            "updatedDate": 1371215538000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "fax": "14158575430",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "548 4th Street",
+                "telephone": "14158575430",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "fax": "14158575430",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "548 4th Street",
+                "telephone": "14158575430",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "hostmaster@github.com",
+                "fax": "14158575430",
+                "name": "GitHub Hostmaster",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "CA",
+                "street1": "548 4th Street",
+                "telephone": "14158575430",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191922608000,
+            "domain": "github.com",
+            "ended": 1383292780000,
+            "expiresDate": 1602236208000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "NS1.P16.DYNECT.NET",
+              "NS2.P16.DYNECT.NET",
+              "NS3.P16.DYNECT.NET",
+              "NS4.P16.DYNECT.NET"
+            ],
+            "private_registration": false,
+            "registrarName": "MARKMONITOR INC.",
+            "started": 1375343965000,
+            "status": [
+              "clientDeleteProhibited",
+              "clientTransferProhibited",
+              "clientUpdateProhibited"
+            ],
+            "updatedDate": 1371202608000
+          },
+          {
+            "contact": [
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "tom@github.com",
+                "name": "Werner, Thomas",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94105",
+                "state": "California",
+                "street1": "589 Howard St.",
+                "telephone": "17606720832",
+                "type": "administrativeContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "email": "tom@github.com",
+                "name": "Werner, Thomas",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94105",
+                "state": "California",
+                "street1": "589 Howard St.",
+                "telephone": "17606720832",
+                "type": "technicalContact"
+              },
+              {
+                "city": "San Francisco",
+                "country": "UNITED STATES",
+                "organization": "GitHub, Inc.",
+                "postalCode": "94107",
+                "state": "California",
+                "street1": "548 4th St",
+                "type": "registrant"
+              }
+            ],
+            "createdDate": 1191899020000,
+            "domain": "github.com",
+            "ended": 1363303077000,
+            "expiresDate": 1539054220000,
+            "full_domain": "github.com",
+            "gtld": true,
+            "nameServers": [
+              "NS1.P16.DYNECT.NET",
+              "NS2.P16.DYNECT.NET",
+              "NS3.P16.DYNECT.NET",
+              "NS4.P16.DYNECT.NET"
+            ],
+            "private_registration": false,
+            "registrarName": "GODADDY.COM, LLC",
+            "started": 1347318661000,
+            "status": [
+              "clientDeleteProhibited",
+              "clientRenewProhibited",
+              "clientTransferProhibited",
+              "clientUpdateProhibited"
+            ],
+            "updatedDate": 1313982220000
+          }
+        ]
+      }
+    },
+    "history-dns": {
+      "message": "Page not found"
+    }
+  },
+  "abuse": {
+    "ip": {
+      "ip": "140.82.113.4",
+      "found": "found",
+      "reports": "2",
+      "confidence": "6%"
+    }
+  }
+}
