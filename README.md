@@ -6,7 +6,7 @@ A simple interface to investigate on domains.
 
 ## Use
 
-1. First, create your api keys for services listed in `services.json`, or unlock keys.json.zip if you can.
+1. First, create your api keys for services listed in `services.json`, or unlock `keys.json.zip` if you can.
 
 2. Run the following commands
 
