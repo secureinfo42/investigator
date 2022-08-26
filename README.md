@@ -21,3 +21,10 @@ $ env/bin/pyhton investigator.py [target_domain] # main command run
 
 Coming soon.
 
+## Screenshots
+
+![home](accueil.png)
+
+---------------
+
+![results](resultats.PNG)
