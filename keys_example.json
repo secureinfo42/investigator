@@ -1,0 +1,51 @@
+{
+	"shodan": {
+			"key":"",
+			"base_url": ""
+	} ,
+	"securitytrails": {
+		"key":"",
+		"base_url": "https://api.securitytrails.com/v1"
+	} ,
+	"virustotal": {
+		"key":"",
+		"base_url": "https://www.virustotal.com/api/v3"
+	} ,
+	"binaryedge": {
+		"key":"",
+		"base_url": "https://api.binaryedge.io/v2/query/"
+	} ,
+	"hunter.io": {
+		"key":"",
+		"base_url": ""
+	} ,
+	"secureinfo": {
+		"key":"",
+		"base_url": "https://www.secureinfo.eu/api"
+	} ,
+	"vuldb": {
+		"key":"",
+		"base_url": "https://vuldb.com/?api"
+	} ,
+	"ipinfo": {
+		"key":"",
+		"base_url": "https://ipinfo.io"
+	} ,
+	"censys": {
+		"CENSYS_API_ID":"",
+		"CENSYS_API_SECRET":"",
+		"base_url": ""
+	} ,
+	"apivoid": {
+		"key":"",
+		"base_url": "https://endpoint.apivoid.com/"
+	},
+	"abuseipdb": {
+		"base_url": "https://www.abuseipdb.com/check/"
+	},
+	"mywot": {
+		"userID": "",
+		"apiKey": "",
+		"base_url": "https://scorecard.api.mywot.com/"
+	}
+}
